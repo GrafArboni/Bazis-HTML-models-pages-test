@@ -1,0 +1,785 @@
+{
+ "schema": 1,
+ "source": "c59c27937fd835172914f4adc036cfdba49a0ef61ea84cb516c9d46eac6d673a",
+ "savedAt": "2026-10-16T19:05:20.629Z",
+ "features": {
+  "outline": false,
+  "section": {
+   "active": false,
+   "axis": "y",
+   "position": 1256.9997604864739,
+   "reversed": false,
+   "showPlane": true,
+   "chosen": false,
+   "normal": [
+    0,
+    1,
+    0
+   ]
+  },
+  "display_modes": null,
+  "finish": "texture",
+  "dimension_actions": {
+   "colors": []
+  },
+  "dimensions": {
+   "size": 16,
+   "color": "#e60000",
+   "unit": false,
+   "box": false
+  },
+  "materials": [
+   {
+    "id": "art:ДСП лам. Egger U899 ST9 Космос серый 2800х2070х18 мм\r33940",
+    "type": "tex",
+    "name": "ДСП лам. Egger U899 ST9 Космос серый 2800х2070х18 мм",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "ДСП лам. Egger U899 ST9 Космос серый 2800х2070х18 мм\r33940",
+     "texData": null,
+     "color": "#2c2a2f",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:ДСП лам. Egger U899 ST9 Космос серый 2800х2070х10мм\r117781",
+    "type": "tex",
+    "name": "ДСП лам. Egger U899 ST9 Космос серый 2800х2070х10мм",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "ДСП лам. Egger U899 ST9 Космос серый 2800х2070х10мм\r117781",
+     "texData": null,
+     "color": "#2c2a2f",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:ALPI ICE WRABLE 12.09\rШпон",
+    "type": "tex",
+    "name": "ALPI ICE WRABLE 12.09",
+    "state": {
+     "rot": 3,
+     "mode": "tex",
+     "texKey": "ALPI ICE WRABLE 12.09\rШпон",
+     "texData": null,
+     "color": "#ebe5de",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:ДСП лам. Egger U960 ST9 Оникс серый 2800х2070х18 мм\r33941",
+    "type": "tex",
+    "name": "ДСП лам. Egger U960 ST9 Оникс серый 2800х2070х18 мм",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "ДСП лам. Egger U960 ST9 Оникс серый 2800х2070х18 мм\r33941",
+     "texData": null,
+     "color": "#746e78",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Шпон односторонний 19мм\rШпон односторонний 19мм",
+    "type": "tex",
+    "name": "Шпон односторонний 19мм",
+    "state": {
+     "rot": 1,
+     "mode": "tex",
+     "texKey": "Шпон односторонний 19мм\rШпон односторонний 19мм",
+     "texData": null,
+     "color": "#40372c",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Обои\rОбои",
+    "type": "tex",
+    "name": "Обои",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "Обои\rОбои",
+     "texData": null,
+     "color": "#cfc6bd",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Шпон двусторонний 19мм\rШпон двусторонний 19мм",
+    "type": "tex",
+    "name": "Шпон двусторонний 19мм",
+    "state": {
+     "rot": 1,
+     "mode": "tex",
+     "texKey": "Шпон двусторонний 19мм\rШпон двусторонний 19мм",
+     "texData": null,
+     "color": "#40372c",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Шпон ламельный 5мм\rШпон ламельный 5мм",
+    "type": "tex",
+    "name": "Шпон ламельный 5мм",
+    "state": {
+     "rot": 1,
+     "mode": "tex",
+     "texKey": "Шпон ламельный 5мм\rШпон ламельный 5мм",
+     "texData": null,
+     "color": "#40372c",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#191919",
+    "type": "col",
+    "name": "Пластик черный",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#191919",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#c0c0c0",
+    "type": "col",
+    "name": "Металлический лист 3мм",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#cccccc",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Пол\r-10",
+    "type": "tex",
+    "name": "Пол",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "Пол\r-10",
+     "texData": null,
+     "color": "#4f5053",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Алюминий\r-2",
+    "type": "tex",
+    "name": "Алюминий",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": "Алюминий\r-2",
+     "texData": null,
+     "color": "#cccccc",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#00ff00",
+    "type": "col",
+    "name": "LED-лента COB, 320 LEDs/M, 12W, 24V, IP20, теплый свет",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": null,
+     "texData": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAEbARsDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAf/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAT/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwC5AIlQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//2Q==",
+     "color": "#444444",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#7c7c7c",
+    "type": "col",
+    "name": "Труба 60х20",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#7c7c7c",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#5c5c5c",
+    "type": "col",
+    "name": "Труба 20х20",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#5c5c5c",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#2d2d2d",
+    "type": "col",
+    "name": "Порошковая краска черная",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#2d2d2d",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Сталь\rСталь",
+    "type": "col",
+    "name": "Сталь",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:__05-ks-dunkelgrau",
+    "type": "col",
+    "name": "__05-ks-dunkelgrau",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:__02-st-nickel",
+    "type": "col",
+    "name": "__02-st-nickel",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:ZincPlated",
+    "type": "col",
+    "name": "ZincPlated",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:DeepGrey",
+    "type": "col",
+    "name": "DeepGrey",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#444444",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:StainlessSteelLongsideBrushed",
+    "type": "col",
+    "name": "StainlessSteelLongsideBrushed",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#cccccc",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:NickelPlated",
+    "type": "col",
+    "name": "NickelPlated",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:White",
+    "type": "col",
+    "name": "White",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#ffffff",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:__2-st-nickel",
+    "type": "col",
+    "name": "__2-st-nickel",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#444444",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:__07-ks-blum-orange",
+    "type": "col",
+    "name": "__07-ks-blum-orange",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#444444",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:color",
+    "type": "col",
+    "name": "color",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#414141",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:deepgrey",
+    "type": "col",
+    "name": "deepgrey",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#444444",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:__03-ks-weiss",
+    "type": "col",
+    "name": "__03-ks-weiss",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#444444",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:__4-ks-hellgrau",
+    "type": "col",
+    "name": "__4-ks-hellgrau",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#808080",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:nickelplated",
+    "type": "col",
+    "name": "nickelplated",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#888888",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:хром",
+    "type": "col",
+    "name": "хром",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#353535",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Порошковая краска черная\r-5413543",
+    "type": "col",
+    "name": "Порошковая краска черная",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#2d2d2d",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Белый\r-101",
+    "type": "col",
+    "name": "Белый",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   }
+  ],
+  "texture_fit": {
+   "schema": 2,
+   "modes": {}
+  },
+  "material_labels": {
+   "enabled": true,
+   "changedAt": null
+  },
+  "notes": {
+   "enabled": true,
+   "notes": [
+    {
+     "id": "nmv7vdpv76dg6",
+     "text": "Баг отображения, сзади обоев не будет",
+     "point": [
+      1679.748,
+      2235.34,
+      150.536
+     ],
+     "objectId": 749,
+     "local": [
+      1679.748,
+      284.66,
+      17.964
+     ],
+     "element": "Задняя стенка · поз. 2.1",
+     "updated": "2026-10-14T08:50:43.804Z",
+     "hidden": false
+    },
+    {
+     "id": "nmv7vg5h2mnoc",
+     "text": "Заложил металлокаркас под верхний стол.\nПереднюю угловую деталь нужно будет фрезеровать на ЧПУ",
+     "point": [
+      1654.024,
+      759.606,
+      546.724
+     ],
+     "objectId": 9242,
+     "local": [
+      182.088,
+      569.332,
+      0.012
+     ],
+     "element": "Дно · поз. 6.2",
+     "updated": "2026-10-14T08:53:01.202Z",
+     "hidden": false,
+     "isolate": true,
+     "view": {
+      "position": [
+       -9.014,
+       1990.424,
+       2429.465
+      ],
+      "target": [
+       1693.279,
+       819.641,
+       734.561
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "orthographic": false
+     },
+     "thread": [
+      {
+       "id": "nmvbc6pdbl6qm",
+       "role": "client",
+       "from": "Женя",
+       "at": "2026-10-16T19:04:18.671Z",
+       "kind": "text",
+       "text": "Отфрезеровать на ЧПУ не можем такой угол"
+      }
+     ]
+    },
+    {
+     "id": "nmv7via2k4nx1",
+     "text": "Вид на фасады сзади",
+     "point": [
+      1758.713,
+      1652.752,
+      188.012
+     ],
+     "objectId": 6396,
+     "local": [
+      655.021,
+      537.988,
+      10.752
+     ],
+     "element": "Несъемная полка · поз. 3.6",
+     "updated": "2026-10-14T08:54:47.278Z",
+     "hidden": false,
+     "window": {
+      "mode": "zone",
+      "normal": [
+       0,
+       0,
+       -1
+      ],
+      "depth": 369,
+      "width": 1715,
+      "height": 1155,
+      "du": -132.5,
+      "dv": -272.5
+     },
+     "view": {
+      "position": [
+       1152.873,
+       2028.579,
+       -1706.939
+      ],
+      "target": [
+       1902.924,
+       1257.593,
+       892.238
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "orthographic": false
+     }
+    },
+    {
+     "id": "nmv7vk28zfobk",
+     "text": "Сейчас, если я правильно понял ТЗ, тут два разных материала.\nТак и должно быть?",
+     "point": [
+      920.68,
+      2500.013,
+      585.4
+     ],
+     "objectId": 8532,
+     "local": [
+      2500.012,
+      734.01,
+      15.4
+     ],
+     "element": "Правая стойка · поз. 4.2",
+     "updated": "2026-10-14T08:55:50.869Z",
+     "hidden": false,
+     "extra": [
+      {
+       "point": [
+        3307.419,
+        2499.524,
+        257.353
+       ],
+       "objectId": 426,
+       "local": [
+        511.647,
+        -405.727,
+        18.024
+       ],
+       "element": "Top panel · поз. 1.7"
+      }
+     ],
+     "thread": [
+      {
+       "id": "nmvbc5yvvets2",
+       "role": "client",
+       "from": "Женя",
+       "at": "2026-10-16T19:03:44.347Z",
+       "kind": "text",
+       "text": "Нет, тут должны быть крашенные фасады"
+      },
+      {
+       "id": "nmvbc7z8kjyft",
+       "role": "owner",
+       "from": "",
+       "at": "2026-10-16T19:05:18.116Z",
+       "kind": "propose",
+       "ref": "nmvbc5yvvets2"
+      }
+     ]
+    },
+    {
+     "id": "nmv7w77g2dlgd",
+     "text": "Разбил на 2 отдельных модуля, чтобы не было слабого места на стыке фасадов",
+     "point": [
+      643.186,
+      2500,
+      690.932
+     ],
+     "objectId": 7464,
+     "local": [
+      2500,
+      690.932,
+      15.494
+     ],
+     "element": "Правая стойка · поз. 5.4",
+     "updated": "2026-10-14T09:13:59.493Z",
+     "hidden": false,
+     "sphere": {
+      "diameter": 600
+     },
+     "view": {
+      "position": [
+       53.395,
+       2865.267,
+       1532.014
+      ],
+      "target": [
+       1454.802,
+       2015.729,
+       -197.312
+      ],
+      "up": [
+       0,
+       1,
+       0
+      ],
+      "orthographic": false
+     }
+    }
+   ]
+  },
+  "hardware_mono": false,
+  "visibility": {
+   "hidden": [],
+   "objectMode": true
+  },
+  "panel_hardware": {
+   "active": false,
+   "selectedPanelId": null
+  },
+  "assembler": {
+   "active": false,
+   "exploded": false,
+   "separation": 250,
+   "unitId": null,
+   "partDimensionsEnabled": false,
+   "labelPosition": true,
+   "labelName": null,
+   "labelFontSize": 11,
+   "positionsThrough": false,
+   "unitThrough": {},
+   "hiddenUnits": []
+  },
+  "hardware_catalog": {
+   "expanded": false
+  }
+ },
+ "controls": {
+  "panels": true,
+  "profiles": true,
+  "edges": true,
+  "textures": true,
+  "imports": true,
+  "hardware": true,
+  "holes": true,
+  "lines": true,
+  "overlay": false,
+  "opacity": "84",
+  "guides": false,
+  "holeOverlay": false,
+  "nativeDimensions": true,
+  "manualDimensions": true,
+  "githubTokenRemember": true,
+  "sectionEnabled": false,
+  "sectionShowPlane": true,
+  "sectionPosition": "1256.99952097295",
+  "sectionReverse": false,
+  "displayModesEnabled": false,
+  "dimensionFontSize": "16",
+  "dimensionUnit": false,
+  "dimensionBox": false,
+  "notesShow": true,
+  "noteEditorMany": false,
+  "noteEditorSphere": true,
+  "noteEditorDiameter": "100",
+  "noteEditorWindow": false,
+  "noteEditorWindowReverse": false,
+  "noteEditorWindowDepth": "100",
+  "noteEditorIsolate": false,
+  "assemblerSeparation": "250",
+  "assemblerLabelPosition": true,
+  "assemblerLabelName": true,
+  "assemblerLabelFontSize": "11",
+  "assemblerLabelsThrough": false,
+  "guideIntroOnly": false
+ },
+ "layers": [
+  true,
+  true
+ ],
+ "layersByName": {
+  "Линии": true,
+  "Вспомогательные контуры": true
+ },
+ "camera": {
+  "position": [
+   2132.045986924504,
+   3554.886626718277,
+   4687.025591751758
+  ],
+  "target": [
+   1837.627349229376,
+   1077.540563123784,
+   190.1875246713977
+  ],
+  "up": [
+   0,
+   1,
+   0
+  ],
+  "orthographic": false
+ },
+ "dimensions": []
+}

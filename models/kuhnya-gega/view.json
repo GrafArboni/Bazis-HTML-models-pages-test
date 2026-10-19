@@ -1,0 +1,851 @@
+{
+ "schema": 1,
+ "source": "5c1da4ca6967b6e70dde7a2a5ac74e62018d6b113bdc9d8d0a4c3a2c6e4c9eb4",
+ "savedAt": "2026-10-12T09:09:04.338Z",
+ "features": {
+  "outline": false,
+  "section": {
+   "active": false,
+   "axis": "y",
+   "position": 1326.3916893692995,
+   "reversed": false,
+   "showPlane": true,
+   "chosen": false,
+   "normal": [
+    0,
+    1,
+    0
+   ]
+  },
+  "display_modes": null,
+  "finish": "texture",
+  "dimension_actions": {
+   "colors": []
+  },
+  "dimensions": {
+   "size": 16,
+   "color": "#f00000",
+   "unit": false,
+   "box": false
+  },
+  "materials": [
+   {
+    "id": "art:ДСП лам. Swiss Krono U164 PE Антрацитный 2800х2070х18мм\r67481",
+    "type": "tex",
+    "name": "ДСП лам. Swiss Krono U164 PE Антрацитный 2800х2070х18мм",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "ДСП лам. Swiss Krono U164 PE Антрацитный 2800х2070х18мм\r67481",
+     "texData": null,
+     "color": "#585252",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:ДСП SAVIOLA Vanguard/Vanguard P25 Орех 2800х2120х18 мм\r45791",
+    "type": "tex",
+    "name": "ДСП SAVIOLA Vanguard/Vanguard P25 Орех 2800х2120х18 мм",
+    "state": {
+     "rot": 1,
+     "mode": "tex",
+     "texKey": "ДСП SAVIOLA Vanguard/Vanguard P25 Орех 2800х2120х18 мм\r45791",
+     "texData": null,
+     "color": "#3f3530",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:ЛХДФ Антрацит 0164 Kronospan 2800х2070х3мм\r66264",
+    "type": "tex",
+    "name": "ЛХДФ Антрацит 0164 Kronospan 2800х2070х3мм",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "ЛХДФ Антрацит 0164 Kronospan 2800х2070х3мм\r66264",
+     "texData": null,
+     "color": "#2c2a2f",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:ДСП лам. Swiss Krono U162 VL Графитовый 2800х2070x16 мм\r164259",
+    "type": "tex",
+    "name": "ДСП лам. Swiss Krono U162 VL Графитовый 2800х2070x16 мм",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "ДСП лам. Swiss Krono U162 VL Графитовый 2800х2070x16 мм\r164259",
+     "texData": null,
+     "color": "#59575a",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Фасады краска NCS S 7500 N + СуперМат двустор.\rКраска",
+    "type": "tex",
+    "name": "Фасады краска NCS S 7500 N + СуперМат двустор.",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "Фасады краска NCS S 7500 N + СуперМат двустор.\rКраска",
+     "texData": null,
+     "color": "#51504e",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#606060",
+    "type": "col",
+    "name": "Графит",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#606060",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Каменный слэб 16 мм\rКамень 16 мм",
+    "type": "tex",
+    "name": "Каменный слэб 16 мм",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "Каменный слэб 16 мм\rКамень 16 мм",
+     "texData": null,
+     "color": "#a4a39f",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:ДСП лам. Egger U899 ST9 Космос серый 2800х2070х18 мм\r33940",
+    "type": "tex",
+    "name": "ДСП лам. Egger U899 ST9 Космос серый 2800х2070х18 мм",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "ДСП лам. Egger U899 ST9 Космос серый 2800х2070х18 мм\r33940",
+     "texData": null,
+     "color": "#2c2a2f",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:ДСП Kronospan K 350 RT Бетонный камень 2800х2070х18 мм\r69961",
+    "type": "tex",
+    "name": "ДСП Kronospan K 350 RT Бетонный камень 2800х2070х18 мм",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "ДСП Kronospan K 350 RT Бетонный камень 2800х2070х18 мм\r69961",
+     "texData": null,
+     "color": "#bebcbc",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#525252",
+    "type": "col",
+    "name": "Врезной проф.- ручка Ferro Fiori M 8030 черный анодир., 18мм",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#525252",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#272727",
+    "type": "col",
+    "name": "Врезной проф.- ручка Ferro Fiori M 8050 черный анодир., 18мм",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#272727",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Алюминий\r-2",
+    "type": "tex",
+    "name": "Алюминий",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "Алюминий\r-2",
+     "texData": null,
+     "color": "#d7c18b",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#191919",
+    "type": "col",
+    "name": "Пластик черный",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#191919",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#2e3236",
+    "type": "col",
+    "name": "Алюминиевый уголок 10х10х1мм L=2 м, черный",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#2e3236",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#353535",
+    "type": "col",
+    "name": "хром",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#353535",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#c0c0c0",
+    "type": "col",
+    "name": "Графит матовый",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Фасад Духового шкафа\rДуховой шкаф",
+    "type": "tex",
+    "name": "Фасад Духового шкафа",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": "Фасад Духового шкафа\rДуховой шкаф",
+     "texData": null,
+     "color": "#444444",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#d6d6d6",
+    "type": "col",
+    "name": "Хромк",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#d6d6d6",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#00ff00",
+    "type": "col",
+    "name": "LED-2835 SMD SLIM лента, 5мм, 120 LEDs/м, 10Вт, 12В, IP20, дневной свет",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#00ff00",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Профиль GOLA горизонтальный с пазом для LED Ferro Fiori, L = 4100 мм, type C, чорный браш\r117880",
+    "type": "tex",
+    "name": "Профиль GOLA горизонтальный с пазом для LED Ferro Fiori, L = 4100 мм, type C, чорный браш",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "Профиль GOLA горизонтальный с пазом для LED Ferro Fiori, L = 4100 мм, type C, чорный браш\r117880",
+     "texData": null,
+     "color": "#000000",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Профиль GOLA в верхний модуль Ferro Fiori с пазом для LED, L=4100 мм, type L, алюминий\r126785",
+    "type": "tex",
+    "name": "Профиль GOLA в верхний модуль Ferro Fiori с пазом для LED, L=4100 мм, type L, алюминий",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "Профиль GOLA в верхний модуль Ferro Fiori с пазом для LED, L=4100 мм, type L, алюминий\r126785",
+     "texData": null,
+     "color": "#000000",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#5d5d5d",
+    "type": "col",
+    "name": "Тёмно-серый",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#5d5d5d",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Профиль для LED-ленты, ВРЕЗНОЙ, L = 3м, алюминий, черный мат\r110021",
+    "type": "tex",
+    "name": "Профиль для LED-ленты, ВРЕЗНОЙ, L = 3м, алюминий, черный мат",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "Профиль для LED-ленты, ВРЕЗНОЙ, L = 3м, алюминий, черный мат\r110021",
+     "texData": null,
+     "color": "#2b2a28",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#ffffb7",
+    "type": "col",
+    "name": "Линза светорассеивающая для профиля L= 3м, поликарбонат, молочная",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#ffffb7",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Профиль GOLA горизонтальный с пазом для LED Ferro Fiori, L=4100 мм, type L, черный браш\r117890",
+    "type": "tex",
+    "name": "Профиль GOLA горизонтальный с пазом для LED Ferro Fiori, L=4100 мм, type L, черный браш",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "Профиль GOLA горизонтальный с пазом для LED Ferro Fiori, L=4100 мм, type L, черный браш\r117890",
+     "texData": null,
+     "color": "#000000",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#808080",
+    "type": "col",
+    "name": "передняя панель, внутренний ящик и внутренняя галерея с поперечным релингом, ШК=1200 мм, под раскрой, для MERIVOBOX",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#808080",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "col:#ffffff",
+    "type": "col",
+    "name": "Хром",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#ffffff",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:ДСП бук",
+    "type": "col",
+    "name": "ДСП бук",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Сталь\rСталь",
+    "type": "col",
+    "name": "Сталь",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:grau_220",
+    "type": "col",
+    "name": "grau_220",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#616161",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:__3_dunkelgrau",
+    "type": "col",
+    "name": "__3_dunkelgrau",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:far-ob_dg",
+    "type": "col",
+    "name": "far-ob_dg",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#444444",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:fa-rwh",
+    "type": "col",
+    "name": "fa-rwh",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#444444",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:E6Ev1Natural",
+    "type": "col",
+    "name": "E6Ev1Natural",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#00ff00",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Ral7037DustGrey",
+    "type": "col",
+    "name": "Ral7037DustGrey",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:__7-ks-blum-orange",
+    "type": "col",
+    "name": "__7-ks-blum-orange",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#808080",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:NickelPlated",
+    "type": "col",
+    "name": "NickelPlated",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Black",
+    "type": "col",
+    "name": "Black",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#00ff00",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:color",
+    "type": "col",
+    "name": "color",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#414141",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:dunkelgrau",
+    "type": "col",
+    "name": "dunkelgrau",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#414141",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:ZincPlated",
+    "type": "col",
+    "name": "ZincPlated",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:__5-ks-dunkelgrau",
+    "type": "col",
+    "name": "__5-ks-dunkelgrau",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#808080",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:white",
+    "type": "col",
+    "name": "white",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#ffffff",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:zincplated",
+    "type": "col",
+    "name": "zincplated",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:oriongreymatt",
+    "type": "col",
+    "name": "oriongreymatt",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#575757",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:OrionGreyMatt",
+    "type": "col",
+    "name": "OrionGreyMatt",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#575757",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Пластик черный\r-1",
+    "type": "col",
+    "name": "Пластик черный",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#191919",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Структурный графит",
+    "type": "tex",
+    "name": "Структурный графит",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": "Структурный графит",
+     "texData": null,
+     "color": "#232323",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Белый\r-101",
+    "type": "col",
+    "name": "Белый",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Прозрачность\r-546345634",
+    "type": "col",
+    "name": "Прозрачность",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#f6b67f",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Никель",
+    "type": "col",
+    "name": "Никель",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#f0dfb0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Сталь",
+    "type": "col",
+    "name": "Сталь",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#c0c0c0",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:Порошковая краска черная\r-5413543",
+    "type": "col",
+    "name": "Порошковая краска черная",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#2d2d2d",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "art:Хром",
+    "type": "tex",
+    "name": "Хром",
+    "state": {
+     "rot": 0,
+     "mode": "tex",
+     "texKey": "Хром",
+     "texData": null,
+     "color": "#d7c18b",
+     "transparency": 0
+    }
+   },
+   {
+    "id": "mat:хром",
+    "type": "col",
+    "name": "хром",
+    "state": {
+     "rot": 0,
+     "mode": "col",
+     "texKey": null,
+     "texData": null,
+     "color": "#353535",
+     "transparency": 0
+    }
+   }
+  ],
+  "texture_fit": {
+   "schema": 2,
+   "modes": {
+    "art:ДСП SAVIOLA Vanguard/Vanguard P25 Орех 2800х2120х18 мм\r45791": "fit"
+   }
+  },
+  "material_labels": {
+   "enabled": false,
+   "changedAt": "2026-10-11T10:42:18.896Z"
+  },
+  "notes": {
+   "enabled": true,
+   "notes": []
+  },
+  "hardware_mono": false,
+  "visibility": {
+   "hidden": [],
+   "objectMode": true
+  },
+  "panel_hardware": {
+   "active": false,
+   "selectedPanelId": null
+  },
+  "assembler": {
+   "active": true,
+   "exploded": false,
+   "separation": 250,
+   "unitId": null,
+   "partDimensionsEnabled": false,
+   "labelPosition": true,
+   "labelName": null,
+   "labelFontSize": 11,
+   "positionsThrough": true,
+   "unitThrough": {},
+   "hiddenUnits": []
+  },
+  "hardware_catalog": {
+   "expanded": false
+  }
+ },
+ "controls": {
+  "panels": true,
+  "profiles": true,
+  "edges": true,
+  "textures": true,
+  "imports": true,
+  "hardware": true,
+  "holes": true,
+  "lines": true,
+  "overlay": false,
+  "opacity": "84",
+  "guides": false,
+  "holeOverlay": false,
+  "nativeDimensions": false,
+  "manualDimensions": true,
+  "githubTokenRemember": true,
+  "sectionEnabled": false,
+  "sectionShowPlane": true,
+  "sectionPosition": "1326.39221662922",
+  "sectionReverse": false,
+  "displayModesEnabled": false,
+  "dimensionFontSize": "16",
+  "dimensionUnit": false,
+  "dimensionBox": false,
+  "notesShow": true,
+  "noteEditorMany": false,
+  "noteEditorSphere": false,
+  "noteEditorDiameter": "60",
+  "assemblerSeparation": "250",
+  "assemblerLabelPosition": true,
+  "assemblerLabelName": false,
+  "assemblerLabelFontSize": "11",
+  "assemblerLabelsThrough": true
+ },
+ "layers": [
+  true,
+  true,
+  true
+ ],
+ "layersByName": {
+  "Слой 0": true,
+  "Слой LEICA_3DDISTO_SURFACESCAN": true,
+  "Линии": true
+ },
+ "camera": {
+  "position": [
+   3295.840472885241,
+   5020.961044235586,
+   10756.436708562525
+  ],
+  "target": [
+   2582.136374311326,
+   1882.9992085246636,
+   3008.8931843519276
+  ],
+  "up": [
+   0,
+   1,
+   0
+  ],
+  "orthographic": false
+ },
+ "dimensions": []
+}
